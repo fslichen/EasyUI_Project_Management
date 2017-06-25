@@ -1,0 +1,5 @@
+package evolution.controller;
+
+public class RequestPojo {
+	private String name;
+}
